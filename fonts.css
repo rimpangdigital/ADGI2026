@@ -1,0 +1,12 @@
+@font-face {
+   font-family: "Roboto Mono Medium";
+   src: url("fonts/Roboto Mono Medium.woff2") format("woff2");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Montserrat";
+   src: url("fonts/Montserrat Medium.woff2") format("woff2");
+   font-weight: normal;
+   font-style: normal;
+}
